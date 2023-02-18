@@ -6,7 +6,7 @@ $ cd DockerPractice
 $ docker-compose build
 
 # Dockerを起動
-# -d でバックグランド起動する
+#### -d でバックグランド起動する
 $ docker-compose up -d
 
 # 起動しているコンテナが表示される
