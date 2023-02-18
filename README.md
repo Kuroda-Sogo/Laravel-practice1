@@ -1,5 +1,6 @@
 # physiaki
 # 環境構築手順
+#### このディレクトリをプルしたファイルに移動する
 $ cd DockerPractice
 
 # Dockerイメージを作成
