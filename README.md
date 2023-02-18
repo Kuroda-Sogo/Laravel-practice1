@@ -12,6 +12,7 @@ $ docker-compose up -d
 # 起動しているコンテナが表示される
 $ docker ps
 
+# コンテナの中に入る
 $ winpty docker-compose exec app bash
 
 # Laravelプロジェクト作成
