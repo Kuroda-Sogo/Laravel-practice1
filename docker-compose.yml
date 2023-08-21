@@ -67,3 +67,8 @@ services:
   # セッション情報をボリュームに設定して永続化
   volumes:
      - ./docker/phpmyadmin/sessions:/sessions
+     - ../:/:cached
+     - /src/test/storage/framework
+     - /src/test/vendor
+
+
